@@ -24,6 +24,7 @@ h2{
 .h3{
     font-family: 'Montserrat-bold';
     font-size: 1.5rem;
+    color: #fff;
 }
 .wrapper{
     width: 100%;
@@ -75,7 +76,7 @@ h2{
 }
 
 #testimonials{
-    padding: 7% 15%;
+    
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -93,4 +94,27 @@ h2{
 .p-image{
  width: 15%;
  margin: 20px 15px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    padding: 7% 15%; 
+    text-align: center; 
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%; 
+    text-align: center; 
+}
+
+.wrapper-c h3{
+    font-family: 'Montserrat-bold';
+    font-size: 1.5rem;
+    color: #fff;
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
 }
